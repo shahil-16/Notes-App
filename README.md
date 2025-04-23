@@ -21,6 +21,7 @@ JavaScript (Vanilla JS)
 LocalStorage API
 
 📸 Preview Screenshot
+
 ![Screenshot (6)](https://github.com/user-attachments/assets/1d216770-9283-48db-9a85-bb11b757c4e7)
 
 
